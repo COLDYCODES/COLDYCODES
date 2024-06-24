@@ -1,5 +1,5 @@
-ツ System - Android 8.1.0
-ツ Engine - Godot 4
+- ツ System - Android 8.1.0
+- ツ Engine - Godot 4
 
 <!---
 COLDYCODES/COLDYCODES is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
