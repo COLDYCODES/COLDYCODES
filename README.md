@@ -1,5 +1,5 @@
 <h1 align="center">Hey <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png" height="30px" width="30px"> I'm Cold Skywalker</h1>
-<h3 align="center">Community Manager !! Programmer !!</h3>
+<h3 align="center">Community & Esports Manager !! Programmer !!</h3>
 
 <p align="center">
   <a href="https://komarev.com/ghpvc/?username=COLDYCODES">
