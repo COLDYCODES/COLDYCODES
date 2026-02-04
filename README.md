@@ -10,11 +10,11 @@
 <img src="https://i.pinimg.com/originals/48/72/59/487259006ebb768d17f7ec4497969876.gif" alt="Banner" width="100%" />
 
 ## 📌 About Me
-- I'm a 18 y/o Indian Community Manager and Programmer who likes to do programming passion projects in my free time.
+- I'm a 18 y/o Indian Community Manager and Game Developer who likes to make games in my free time.
 
 
 ## 🧠 My Focus Areas
-- Discord Bot Development !!
+- Roblox Development !!
 
 
 ## 🔗 Connect with Me
