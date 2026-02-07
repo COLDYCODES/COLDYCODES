@@ -1,5 +1,5 @@
 <h1 align="center">Hey <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png" height="30px" width="30px"> I'm Cold Skywalker</h1>
-<h3 align="center">Community & Esports Manager // Game Developer !!</h3>
+<h3 align="center">Community & Esports Manager !!</h3>
 
 <p align="center">
   <a href="https://komarev.com/ghpvc/?username=COLDYCODES">
@@ -10,7 +10,7 @@
 <img src="https://i.pinimg.com/originals/48/72/59/487259006ebb768d17f7ec4497969876.gif" alt="Banner" width="100%" />
 
 ## 📌 About Me
-- I'm a 18 y/o Indian Community & Esports Manager who likes to make games in my free time.
+- I'm a 18 y/o Indian Community & Esports Manager who likes to do programming projects in my free time.
 
 
 ## 🧠 My Focus Areas
