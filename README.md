@@ -14,7 +14,7 @@
 
 
 ## 🧠 My Focus Areas
-- Lua
+- Custom Desktop Enviroment
 
 
 ## 🔗 Connect with Me
