@@ -14,7 +14,7 @@
 
 
 ## 🧠 My Focus Areas
-- Custom Desktop Enviroment
+- Discord Bots
 
 
 ## 🔗 Connect with Me
