@@ -1,5 +1,5 @@
 <h1 align="center">Hey <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png" height="30px" width="30px"> I'm Cold Skywalker</h1>
-<h3 align="center">A Community Manager !!</h3>
+<h3 align="center">Developer !!</h3>
 
 <p align="center">
   <a href="https://komarev.com/ghpvc/?username=COLDYCODES">
@@ -10,11 +10,11 @@
 <img src="https://i.pinimg.com/originals/48/72/59/487259006ebb768d17f7ec4497969876.gif" alt="Banner" width="100%" />
 
 ## 📌 About Me
-- I'm a 18 y/o Indian Community Manager who likes to do programming projects in my free time.
+- Nothing to say !!
 
 
 ## 🧠 My Focus Areas
-- Discord Bots
+- Exploring rn, will sort this out soon !!
 
 
 ## 🔗 Connect with Me
