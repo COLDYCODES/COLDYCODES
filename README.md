@@ -14,7 +14,7 @@
 
 
 ## 🧠 My Focus Areas
-- Exploring rn, will sort this out soon !!
+- Unspecified !!
 
 
 ## 🔗 Connect with Me
