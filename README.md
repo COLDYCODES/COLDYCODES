@@ -14,7 +14,7 @@
 
 
 ## 🧠 My Focus Areas
-- Unspecified !!
+- PowerShell
 
 
 ## 🔗 Connect with Me
