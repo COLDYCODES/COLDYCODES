@@ -1,16 +1,6 @@
 <div align="center">
 
-# COLD
-
-`</ DEVELOPER >`
-
-<br>
-
-> Pacman is fun !!
-
-<br>
-
-### [ Portfolio ](https://coldycodes.github.io/COLD/)
+# PACMAN HERE !!
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph-dark.svg">
